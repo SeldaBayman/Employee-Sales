@@ -12,8 +12,12 @@ The main objective of this project is to provide a comprehensive overview of emp
 
 Data and Methodology
 Data Sources: The data set includes records of new hires, exits, reasons for leaving, and departmental details spanning the past five years.
-Tools Used: The analysis was conducted using Power BI, leveraging DAX for complex calculations and relationships between different data tables.
-Approach: The report breaks down the data by different dimensions, such as age, gender, department, and job level, to identify trends and correlations. Insights are drawn from comparing hiring rates with exit rates and analyzing reasons for exits by various categories.
+
+Tools Used: 
+The analysis was conducted using Power BI, leveraging DAX for complex calculations and relationships between different data tables.
+
+Approach: 
+The report breaks down the data by different dimensions, such as age, gender, department, and job level, to identify trends and correlations. Insights are drawn from comparing hiring rates with exit rates and analyzing reasons for exits by various categories.
 
 Key Insights
 Hiring Trends: Highlighting seasonal patterns and department-specific hiring needs.
