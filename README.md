@@ -1,5 +1,5 @@
 # Employee New_Hire/Exit Hire Data Analysis Dahboards
-Employee New Hire and Exit Data Analysis - Power BI Project
+Employee New Hire and Exit Hire Data Analysis - Power BI Project
 ![New_Hire](https://github.com/user-attachments/assets/901463ec-b8be-4435-8dcc-6181e367d992)
 
 Overview
